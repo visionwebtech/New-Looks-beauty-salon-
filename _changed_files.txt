@@ -1,0 +1,30 @@
+ADDED (5):
+  assets/training-practice-brow-shaping.jpg
+  assets/training-practice-brow-tint.jpg
+  assets/training-practice-makeup-brush.jpg
+  assets/training-practice-threading.jpg
+  training.html
+
+MODIFIED (19):
+  about.html
+  booking.html
+  bridal.html
+  contact.html
+  gallery.html
+  index.html
+  services-bridal.html
+  services-eye-beauty.html
+  services-facial-skin-care.html
+  services-hair-skin-nail-care.html
+  services-hair.html
+  services-makeup.html
+  services-manicure-pedicure.html
+  services-mehendi.html
+  services-nail-services.html
+  services-threading.html
+  services-waxing.html
+  services.html
+  sitemap.xml
+
+DELETED:
+  None
